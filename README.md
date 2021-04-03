@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-titanic data science challaenge
+titanic data science challenge
 
 Project Organization
 ------------
